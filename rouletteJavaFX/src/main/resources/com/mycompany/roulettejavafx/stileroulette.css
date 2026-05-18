@@ -1,0 +1,27 @@
+/* 1. Bottoni Rossi con scritte bianche */
+.red-btn {
+    -fx-background-color: #d40000;
+    -fx-text-fill: white;
+}
+
+/* 2. Bottoni Neri con scritte bianche */
+.black-btn {
+    -fx-background-color: #1a1a1a;
+    -fx-text-fill: white;
+}
+
+/* 3. Bottone Solo Rosso (senza testo) */
+.pure-red {
+    -fx-background-color: #d40000;
+}
+
+/* 4. Bottone Solo Nero (senza testo) */
+.pure-black {
+    -fx-background-color: #1a1a1a;
+}
+
+/* 5. Bottone 0 Verde con scritte bianche */
+.zero-btn {
+    -fx-background-color: #008f11;
+    -fx-text-fill: white;
+}
